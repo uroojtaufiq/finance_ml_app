@@ -30,6 +30,8 @@ The **Finance Machine Learning App** is a user-friendly Streamlit-based web appl
 - scikit-learn
 - matplotlib
 - plotly
+- yfinance
+
 
 ### How to Run Locally:
 1. **Clone the Repository**:
